@@ -1,0 +1,3 @@
+[submodule "net-snmp"]
+	path = net-snmp
+	url = https://github.com/winlibs/net-snmp
